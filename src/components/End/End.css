@@ -9,3 +9,31 @@
     font-weight: 500;
     color: white;
 }
+.my_friends{
+    background: rgb(21, 21, 86);
+    padding: 30px;
+    border-radius: 8px;
+}
+.Your_fri{
+    color: white;
+}
+.friend{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+.Profil{}
+.Profil_nick{
+    margin-bottom: 0rem;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+}
+.discription{
+    margin-bottom: 0rem;
+    color: gray;
+    font-size: 16px;
+    font-weight: 500;
+}
