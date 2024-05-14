@@ -24,7 +24,6 @@
     gap: 15px;
     margin-bottom: 20px;
 }
-.Profil{}
 .Profil_nick{
     margin-bottom: 0rem;
     color: white;
@@ -36,4 +35,30 @@
     color: gray;
     font-size: 16px;
     font-weight: 500;
+}
+.Logo_play{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 15px;
+}
+.friend_01{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+.LOGO{
+    width: 50px;
+    height: 50px;
+}
+.play_end_btn{
+    border: none;
+    height: 30px;
+    width: 70px;
+    background: rgb(86, 188, 86);
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
 }
