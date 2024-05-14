@@ -1,0 +1,13 @@
+.ul_li{
+    display: flex;
+    justify-content: center;
+    /* justify-content: center; */
+    gap: 50px;
+}
+.li_ul{
+    list-style: none;
+    font-size: 32px;
+    font-weight: 700;
+    color: aqua;
+    cursor: pointer;
+}
